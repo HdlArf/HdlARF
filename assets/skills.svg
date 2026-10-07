@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 650">
+<defs><radialGradient id="s"><stop stop-color="#191725"/><stop offset="1" stop-color="#08090D"/></radialGradient><linearGradient id="l"><stop stop-color="#00E5FF"/><stop offset=".5" stop-color="#9B5CFF"/><stop offset="1" stop-color="#FF4FA3"/></linearGradient></defs>
+<rect width="1000" height="650" rx="30" fill="url(#s)"/>
+<g stroke="url(#l)" opacity=".45" stroke-width="2"><path d="M500 325L165 100M500 325L325 65M500 325L675 65M500 325L835 105M500 325L900 325M500 325L835 545M500 325L650 585M500 325L350 585M500 325L135 520M500 325L100 325"/></g>
+<g fill="#0B1118" stroke="url(#l)" stroke-width="3">
+<circle cx="500" cy="325" r="110"/><circle cx="165" cy="100" r="58"/><circle cx="325" cy="65" r="58"/><circle cx="675" cy="65" r="58"/><circle cx="835" cy="105" r="58"/><circle cx="900" cy="325" r="58"/><circle cx="835" cy="545" r="58"/><circle cx="650" cy="585" r="58"/><circle cx="350" cy="585" r="58"/><circle cx="135" cy="520" r="58"/><circle cx="100" cy="325" r="58"/>
+</g>
+<g font-family="Arial" text-anchor="middle" fill="#FFF"><text x="500" y="320" font-size="38" font-weight="800">HΛDΞL</text><text x="500" y="350" font-size="14" fill="#00E5FF">SKILL UNIVERSE</text><text x="165" y="106" font-size="16">PYTHON</text><text x="325" y="71" font-size="16">AI</text><text x="675" y="71" font-size="16">VISION</text><text x="835" y="111" font-size="16">DATA</text><text x="900" y="331" font-size="16">C++</text><text x="835" y="551" font-size="16">C#</text><text x="650" y="591" font-size="16">SQL</text><text x="350" y="591" font-size="16">GIT</text><text x="135" y="526" font-size="16">CLOUD</text><text x="100" y="331" font-size="16">TOOLS</text></g>
+<circle cx="500" cy="325" r="130" fill="none" stroke="#00E5FF" opacity=".25" stroke-dasharray="2 14"><animateTransform attributeName="transform" type="rotate" from="0 500 325" to="360 500 325" dur="16s" repeatCount="indefinite"/></circle>
+</svg>
