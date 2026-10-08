@@ -34,16 +34,29 @@ I like understanding how things work, turning ideas into experiments, and making
 ## TOOLBOX
 
 **LANGUAGES**  
-`Python` · `C++` · `C#` · `HTML` · `CSS` · `SQL`
+<p align="center">
+  <img src="assets/icons/tech/python.svg" width="46" alt="Python">&nbsp;&nbsp;
+  <img src="assets/icons/tech/cpp.svg" width="46" alt="C++">&nbsp;&nbsp;
+  <img src="assets/icons/tech/csharp.svg" width="46" alt="C#">&nbsp;&nbsp;
+  <img src="assets/icons/tech/html.svg" width="46" alt="HTML">&nbsp;&nbsp;
+  <img src="assets/icons/tech/css.svg" width="46" alt="CSS">&nbsp;&nbsp;
+  <img src="assets/icons/tech/sql.svg" width="46" alt="SQL">
+</p>
 
 **AI & DATA**  
-`Machine Learning` · `Data Analysis`
+<p align="center"><code>Machine Learning</code>&nbsp;&nbsp;<code>Data Analysis</code>&nbsp;&nbsp;<img src="assets/icons/tech/kaggle.svg" width="38" alt="Kaggle"></p>
 
 **VISION**  
-`Computer Vision` · `OpenCV` · `OCR` · `Image Processing`
+<p align="center"><code>Computer Vision</code>&nbsp;&nbsp;<img src="assets/icons/tech/opencv.svg" width="42" alt="OpenCV">&nbsp;&nbsp;<code>OCR</code>&nbsp;&nbsp;<code>Image Processing</code></p>
 
 **TOOLS**  
-`Git` · `GitHub` · `Kivy` · `Gradio` · `Jupyter`
+<p align="center">
+  <img src="assets/icons/tech/git.svg" width="42" alt="Git">&nbsp;&nbsp;
+  <img src="assets/icons/github.svg" width="42" alt="GitHub">&nbsp;&nbsp;
+  <img src="assets/icons/tech/gradio.svg" width="42" alt="Gradio">&nbsp;&nbsp;
+  <img src="assets/icons/tech/jupyter.svg" width="42" alt="Jupyter">&nbsp;&nbsp;
+  <code>Kivy</code>
+</p>
 
 ---
 
@@ -55,19 +68,9 @@ I like understanding how things work, turning ideas into experiments, and making
 
 ## HOW I WORK
 
-```text
-QUESTION
-   ↓
-UNDERSTAND
-   ↓
-EXPERIMENT
-   ↓
-BUILD
-   ↓
-VISUALIZE
-   ↓
-WHY?
-```
+<p align="center">
+  <img src="assets/how_i_work.svg" width="100%" alt="HΛDΞL workflow">
+</p>
 
 ---
 
