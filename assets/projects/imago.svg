@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500">
-<defs><linearGradient id="g"><stop stop-color="#00E5FF"/><stop offset="1" stop-color="#9B5CFF"/></linearGradient></defs>
-<rect width="900" height="500" rx="28" fill="#08090D"/>
-<g opacity=".16" stroke="url(#g)"><path d="M0 100H900M0 200H900M0 300H900M0 400H900"/><path d="M100 0V500M200 0V500M300 0V500M400 0V500M500 0V500M600 0V500M700 0V500M800 0V500"/></g>
-<rect x="65" y="65" width="770" height="370" rx="22" fill="#0E121A" stroke="url(#g)" stroke-width="3"/>
-<circle cx="105" cy="105" r="7" fill="#00E5FF"/><circle cx="130" cy="105" r="7" fill="#9B5CFF"/>
-<g font-family="Arial"><text x="95" y="185" fill="#FFF" font-size="54" font-weight="800">IMAGO</text><text x="98" y="225" fill="#B9C4D2" font-size="20" letter-spacing="3">VISUAL COMPUTING · IMAGE PROCESSING</text></g>
-<g fill="none" stroke="url(#g)" stroke-width="5"><path d="M110 350 Q220 270 330 350 T550 350 T770 330"/><circle cx="110" cy="350" r="9" fill="#00E5FF"/><circle cx="330" cy="350" r="9" fill="#9B5CFF"/><circle cx="550" cy="350" r="9" fill="#00E5FF"/><circle cx="770" cy="330" r="9" fill="#9B5CFF"/></g>
-</svg>

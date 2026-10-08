@@ -1,111 +1,107 @@
-<div align="center">
+# HΛDΞL — PINK DIGITAL ROOM
 
-<img src="./assets/hero.svg" width="100%" alt="HΛDΞL interactive animated hero">
+<p align="center"><img src="assets/chat.gif" width="100%" alt="HΛDΞL × MACHINE"></p>
 
-<br>
+<p align="center"><b>HΛDΞL × MACHINE</b><br><sub>MADE IN 🇾🇪</sub></p>
 
-<a href="https://github.com/HdlArf"><img src="https://img.shields.io/badge/GITHUB-HdlArf-08090D?style=for-the-badge&logo=github&logoColor=00E5FF"></a>
-<a href="https://www.linkedin.com/in/hadeel-hdl-10a449331"><img src="https://img.shields.io/badge/LINKEDIN-Hadeel-08090D?style=for-the-badge&logo=linkedin&logoColor=FF4FA3"></a>
-<a href="mailto:hadeelalnomai@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-08090D?style=for-the-badge&logo=gmail&logoColor=9B5CFF"></a>
+<p align="center"><code>BUILDING</code> · <code>THINKING</code> · <code>EXPERIMENTING</code> · <code>REBUILDING</code></p>
 
-</div>
 
 ---
 
-<div align="center">
-<img src="./assets/terminal.svg" width="92%" alt="Animated HΛDΞL terminal">
-</div>
+## PRIVATE CONVERSATION
+
+> **MACHINE:** Hadeel.  
+> **HADEEL:** Yes?  
+> **MACHINE:** What are you building?  
+> **HADEEL:** Something.  
+> **MACHINE:** Do you know what it does?  
+> **HADEEL:** Not yet.  
+> **MACHINE:** Then why did you build it?  
+> **HADEEL:** Curiosity.  
+> **MACHINE:** ...  
+> **MIAO:** miao.  
+> **MACHINE:** I don't trust the cat.  
+> **HADEEL:** You shouldn't.  
+> **MACHINE:** You started another project because you were curious?  
+> **HADEEL:** Yes.  
+> **MACHINE:** We already have 47 unfinished things.  
+> **HADEEL:** Stop counting.  
+> **MACHINE:** No.  
+> **HADEEL:** You're becoming annoying.  
+> **MACHINE:** I learned from you.  
+> **HADEEL:** Excuse me?  
+> **MACHINE:** Nothing.  
+> **MACHINE:** You broke something.  
+> **HADEEL:** I know.  
+> **MACHINE:** Are you going to fix it?  
+> **HADEEL:** No. I'm going to understand why it broke first.  
+> **MACHINE:** That's inefficient.  
+> **HADEEL:** That's learning.  
+> **MACHINE:** What's next?  
+> **HADEEL:** Something weird.  
+> **MACHINE:** Define weird.  
+> **HADEEL:** You'll know when you see it.  
+> **MIAO:** miao.  
+> **MACHINE:** She says we should go.  
+> **HADEEL:** Miao doesn't pay the bills.  
+> **MACHINE:** Neither do I.  
+> **HADEEL:** Then get back to work.  
+> **MACHINE:** Yes, boss.  
 
 ---
+
+<p align="center"><img src="assets/miao.gif" width="90%" alt="MIAO.EXE"></p>
 
 ## SIGNAL
 
-> I build at the intersection of **AI, data, computer vision, and creative computing**.
->
-> I don't only ask *how* something works. I want to understand **why it was designed that way**.
+I build with code, data, AI, vision, and visual ideas.
 
-🇾🇪 Yemen
+I like understanding how things work, turning ideas into experiments, and making technical things feel alive.
 
 ---
 
-<div align="center">
-<img src="./assets/pipeline.svg" width="100%" alt="Animated data and AI pipeline">
-</div>
+## TOOLBOX
+
+<p align="center"><img src="assets/toolbox.gif" width="100%" alt="Toolbox"></p>
+
+**LANGUAGES**  
+`Python` · `C++` · `C#` · `HTML` · `CSS` · `SQL`
+
+**AI & DATA**  
+`Machine Learning` · `Data Analysis`
+
+**VISION**  
+`Computer Vision` · `OpenCV` · `OCR` · `Image Processing`
+
+**TOOLS**  
+`Git` · `GitHub` · `Kivy` · `Gradio` · `Jupyter`
 
 ---
 
-# PROJECT SIGNALS
+## CURRENT OBSESSION ♡
 
-<table>
-<tr>
-<td width="50%" align="center">
-
-<img src="./assets/projects/imago.svg" width="100%" alt="IMAGO visual">
-
-**IMAGO**  
-`Python` `Image Processing` `Computer Vision`
-
-<a href="https://github.com/HdlArf/IMAGO_LAB">OPEN PROJECT →</a>
-
-</td>
-<td width="50%" align="center">
-
-<img src="./assets/projects/gothicocr.svg" width="100%" alt="GothicOCR visual">
-
-**GothicOCR**  
-`Python` `OCR` `Deep Learning`
-
-<a href="https://github.com/HdlArf/GothicOCR1">OPEN PROJECT →</a>
-
-</td>
-</tr>
-</table>
+`AI` · `Computer Vision` · `Algorithms` · `Photography` · `Visual Design`
 
 ---
 
-<div align="center">
-<img src="./assets/skills.svg" width="100%" alt="Animated HΛDΞL skill universe">
-</div>
+## CONNECT
+
+- GitHub — [HdlArf](https://github.com/HdlArf/HdlARF)
+- Instagram — [@hdl_arf](https://www.instagram.com/hdl_arf/)
+- LinkedIn — [Hadeel Hadeel](https://www.linkedin.com/in/hadeel-hadeel-10a449331/)
+- Email — [hadeelalnomai@gmail.com](mailto:hadeelalnomai@gmail.com)
 
 ---
 
-<div align="center">
+## MIAO'S WISHLIST ♡
 
-## HOW I THINK
-
-### QUESTION → UNDERSTAND → EXPERIMENT → BUILD → VISUALIZE → WHY?
-
-</div>
+**SHEIN** · *gift link to be decided later*
 
 ---
 
-<div align="center">
+<p align="center"><img src="assets/weird_zone.gif" width="100%" alt="Weird Zone"></p>
 
-## GITHUB SIGNAL
+<p align="center"><b>FOLLOW HΛDΞL?</b><br><sub>MADE IN 🇾🇪 · WITH CODE ♡</sub></p>
 
-<a href="https://github.com/HdlArf"><img src="https://github-readme-stats.vercel.app/api?username=HdlArf&show_icons=true&hide_border=true&bg_color=08090D&title_color=00E5FF&text_color=CBD5E1&icon_color=FF4FA3" height="170"></a>
-<a href="https://github.com/HdlArf"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HdlArf&layout=compact&hide_border=true&bg_color=08090D&title_color=9B5CFF&text_color=CBD5E1" height="170"></a>
-
-</div>
-
----
-
-<div align="center">
-
-## AI OVERLOAD?
-
-**TAKE A BREAK.**
-
-<a href="#"><img src="https://img.shields.io/badge/SHEIN%20WISHLIST-FF4FA3?style=for-the-badge&logo=shein&logoColor=white" alt="SHEIN Wishlist"></a>
-
-<br><br>
-
-`meow.`
-
-<br><br>
-
-# HΛDΞL
-
-`BUILD · EXPLORE · UNDERSTAND`
-
-</div>
+<p align="center"><b>HΛDΞL</b></p>
