@@ -1,69 +1,37 @@
-# HΛDΞL — PINK DIGITAL ROOM
+# HΛDΞL
 
-<p align="center"><img src="assets/chat.gif" width="100%" alt="HΛDΞL × MACHINE"></p>
+<p align="center">
+  <img src="assets/machine_chat.gif" width="100%" alt="HΛDΞL × MACHINE">
+</p>
 
-<p align="center"><b>HΛDΞL × MACHINE</b><br><sub>MADE IN 🇾🇪</sub></p>
-
-<p align="center"><code>BUILDING</code> · <code>THINKING</code> · <code>EXPERIMENTING</code> · <code>REBUILDING</code></p>
-
-
----
-
-## PRIVATE CONVERSATION
-
-> **MACHINE:** Hadeel.  
-> **HADEEL:** Yes?  
-> **MACHINE:** What are you building?  
-> **HADEEL:** Something.  
-> **MACHINE:** Do you know what it does?  
-> **HADEEL:** Not yet.  
-> **MACHINE:** Then why did you build it?  
-> **HADEEL:** Curiosity.  
-> **MACHINE:** ...  
-> **MIAO:** miao.  
-> **MACHINE:** I don't trust the cat.  
-> **HADEEL:** You shouldn't.  
-> **MACHINE:** You started another project because you were curious?  
-> **HADEEL:** Yes.  
-> **MACHINE:** We already have 47 unfinished things.  
-> **HADEEL:** Stop counting.  
-> **MACHINE:** No.  
-> **HADEEL:** You're becoming annoying.  
-> **MACHINE:** I learned from you.  
-> **HADEEL:** Excuse me?  
-> **MACHINE:** Nothing.  
-> **MACHINE:** You broke something.  
-> **HADEEL:** I know.  
-> **MACHINE:** Are you going to fix it?  
-> **HADEEL:** No. I'm going to understand why it broke first.  
-> **MACHINE:** That's inefficient.  
-> **HADEEL:** That's learning.  
-> **MACHINE:** What's next?  
-> **HADEEL:** Something weird.  
-> **MACHINE:** Define weird.  
-> **HADEEL:** You'll know when you see it.  
-> **MIAO:** miao.  
-> **MACHINE:** She says we should go.  
-> **HADEEL:** Miao doesn't pay the bills.  
-> **MACHINE:** Neither do I.  
-> **HADEEL:** Then get back to work.  
-> **MACHINE:** Yes, boss.  
+<p align="center">
+  <b>HΛDΞL × MACHINE</b><br>
+  <sub>building · thinking · experimenting · rebuilding</sub>
+</p>
 
 ---
-
-<p align="center"><img src="assets/miao.gif" width="90%" alt="MIAO.EXE"></p>
 
 ## SIGNAL
 
-I build with code, data, AI, vision, and visual ideas.
+I build with **AI, data, computer vision, algorithms, and visual ideas**.
 
-I like understanding how things work, turning ideas into experiments, and making technical things feel alive.
+I like understanding how things work, turning ideas into experiments, and making technical systems feel alive.
+
+---
+
+<p align="center">
+  <img src="assets/neural_signal.gif" width="100%" alt="Animated neural network">
+</p>
+
+## HΛDΞL SYSTEM
+
+<p align="center">
+  <img src="assets/dashboard.gif" width="100%" alt="HΛDΞL animated dashboard">
+</p>
 
 ---
 
 ## TOOLBOX
-
-<p align="center"><img src="assets/toolbox.gif" width="100%" alt="Toolbox"></p>
 
 **LANGUAGES**  
 `Python` · `C++` · `C#` · `HTML` · `CSS` · `SQL`
@@ -79,29 +47,52 @@ I like understanding how things work, turning ideas into experiments, and making
 
 ---
 
-## CURRENT OBSESSION ♡
+## CURRENTLY EXPLORING
 
 `AI` · `Computer Vision` · `Algorithms` · `Photography` · `Visual Design`
 
 ---
 
+## HOW I WORK
+
+```text
+QUESTION
+   ↓
+UNDERSTAND
+   ↓
+EXPERIMENT
+   ↓
+BUILD
+   ↓
+VISUALIZE
+   ↓
+WHY?
+```
+
+---
+
+<p align="center">
+  <img src="assets/miao_observer.gif" width="100%" alt="Miao observer">
+</p>
+
+---
+
 ## CONNECT
 
-- GitHub — [HdlArf](https://github.com/HdlArf/HdlARF)
-- Instagram — [@hdl_arf](https://www.instagram.com/hdl_arf/)
-- LinkedIn — [Hadeel Hadeel](https://www.linkedin.com/in/hadeel-hadeel-10a449331/)
-- Email — [hadeelalnomai@gmail.com](mailto:hadeelalnomai@gmail.com)
+<p align="center">
+  <a href="https://github.com/HdlArf">GitHub</a>
+  &nbsp; · &nbsp;
+  <a href="https://www.instagram.com/hdl_arf/">Instagram</a>
+  &nbsp; · &nbsp;
+  <a href="https://www.linkedin.com/in/hadeel-hadeel-10a449331/">LinkedIn</a>
+  &nbsp; · &nbsp;
+  <a href="mailto:hadeelalnomai@gmail.com">Email</a>
+</p>
 
 ---
 
-## MIAO'S WISHLIST ♡
-
-**SHEIN** · *gift link to be decided later*
-
----
-
-<p align="center"><img src="assets/weird_zone.gif" width="100%" alt="Weird Zone"></p>
-
-<p align="center"><b>FOLLOW HΛDΞL?</b><br><sub>MADE IN 🇾🇪 · WITH CODE ♡</sub></p>
-
-<p align="center"><b>HΛDΞL</b></p>
+<p align="center">
+  <sub>still curious.</sub><br><br>
+  <b>HΛDΞL</b><br>
+  <sub>BUILD · EXPLORE · UNDERSTAND</sub>
+</p>
