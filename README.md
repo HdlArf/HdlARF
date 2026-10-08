@@ -35,28 +35,40 @@ I like understanding how things work, turning ideas into experiments, and making
 
 **LANGUAGES**  
 <p align="center">
-  <img src="assets/icons/tech/python.svg" width="46" alt="Python">&nbsp;&nbsp;
-  <img src="assets/icons/tech/cpp.svg" width="46" alt="C++">&nbsp;&nbsp;
-  <img src="assets/icons/tech/csharp.svg" width="46" alt="C#">&nbsp;&nbsp;
-  <img src="assets/icons/tech/html.svg" width="46" alt="HTML">&nbsp;&nbsp;
-  <img src="assets/icons/tech/css.svg" width="46" alt="CSS">&nbsp;&nbsp;
-  <img src="assets/icons/tech/sql.svg" width="46" alt="SQL">
+  <img src="assets/icons/tech/python.svg" width="48" alt="Python">&nbsp;&nbsp;&nbsp;
+  <img src="assets/icons/tech/cpp.svg" width="48" alt="C++">&nbsp;&nbsp;&nbsp;
+  <img src="assets/icons/tech/csharp.svg" width="48" alt="C#">&nbsp;&nbsp;&nbsp;
+  <img src="assets/icons/tech/html.svg" width="48" alt="HTML">&nbsp;&nbsp;&nbsp;
+  <img src="assets/icons/tech/css.svg" width="48" alt="CSS">&nbsp;&nbsp;&nbsp;
+  <img src="assets/icons/tech/sql.svg" width="48" alt="SQL">
 </p>
 
 **AI & DATA**  
-<p align="center"><code>Machine Learning</code>&nbsp;&nbsp;<code>Data Analysis</code>&nbsp;&nbsp;<img src="assets/icons/tech/kaggle.svg" width="38" alt="Kaggle"></p>
+<p align="center">
+  <img src="assets/icons/tech/ml.svg" width="50" alt="Machine Learning">&nbsp;&nbsp;&nbsp;
+  <img src="assets/icons/tech/data.svg" width="50" alt="Data Analysis">&nbsp;&nbsp;&nbsp;
+  <img src="assets/icons/tech/kaggle.svg" width="50" alt="Kaggle">
+</p>
+<p align="center"><sub>Machine Learning&nbsp;&nbsp;&nbsp; Data Analysis&nbsp;&nbsp;&nbsp; Kaggle</sub></p>
 
 **VISION**  
-<p align="center"><code>Computer Vision</code>&nbsp;&nbsp;<img src="assets/icons/tech/opencv.svg" width="42" alt="OpenCV">&nbsp;&nbsp;<code>OCR</code>&nbsp;&nbsp;<code>Image Processing</code></p>
+<p align="center">
+  <img src="assets/icons/tech/vision.svg" width="50" alt="Computer Vision">&nbsp;&nbsp;&nbsp;
+  <img src="assets/icons/tech/opencv.svg" width="50" alt="OpenCV">&nbsp;&nbsp;&nbsp;
+  <img src="assets/icons/tech/ocr.svg" width="50" alt="OCR">&nbsp;&nbsp;&nbsp;
+  <img src="assets/icons/tech/image_processing.svg" width="50" alt="Image Processing">
+</p>
+<p align="center"><sub>Computer Vision&nbsp;&nbsp;&nbsp; OpenCV&nbsp;&nbsp;&nbsp; OCR&nbsp;&nbsp;&nbsp; Image Processing</sub></p>
 
 **TOOLS**  
 <p align="center">
-  <img src="assets/icons/tech/git.svg" width="42" alt="Git">&nbsp;&nbsp;
-  <img src="assets/icons/github.svg" width="42" alt="GitHub">&nbsp;&nbsp;
-  <img src="assets/icons/tech/gradio.svg" width="42" alt="Gradio">&nbsp;&nbsp;
-  <img src="assets/icons/tech/jupyter.svg" width="42" alt="Jupyter">&nbsp;&nbsp;
-  <code>Kivy</code>
+  <img src="assets/icons/tech/git.svg" width="48" alt="Git">&nbsp;&nbsp;&nbsp;
+  <img src="assets/icons/github.svg" width="48" alt="GitHub">&nbsp;&nbsp;&nbsp;
+  <img src="assets/icons/tech/gradio.svg" width="48" alt="Gradio">&nbsp;&nbsp;&nbsp;
+  <img src="assets/icons/tech/kivy.svg" width="48" alt="Kivy">&nbsp;&nbsp;&nbsp;
+  <img src="assets/icons/tech/jupyter.svg" width="48" alt="Jupyter">
 </p>
+<p align="center"><sub>Git&nbsp;&nbsp;&nbsp; GitHub&nbsp;&nbsp;&nbsp; Gradio&nbsp;&nbsp;&nbsp; Kivy&nbsp;&nbsp;&nbsp; Jupyter</sub></p>
 
 ---
 
@@ -69,7 +81,7 @@ I like understanding how things work, turning ideas into experiments, and making
 ## HOW I WORK
 
 <p align="center">
-  <img src="assets/how_i_work.svg" width="100%" alt="HΛDΞL workflow">
+  <img src="assets/how_i_work.gif" width="100%" alt="HΛDΞL workflow — Miao moves across every step">
 </p>
 
 ---
