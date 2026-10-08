@@ -80,13 +80,15 @@ WHY?
 ## CONNECT
 
 <p align="center">
-  <a href="https://github.com/HdlArf">GitHub</a>
-  &nbsp; · &nbsp;
-  <a href="https://www.instagram.com/hdl_arf/">Instagram</a>
-  &nbsp; · &nbsp;
-  <a href="https://www.linkedin.com/in/hadeel-hadeel-10a449331/">LinkedIn</a>
-  &nbsp; · &nbsp;
-  <a href="mailto:hadeelalnomai@gmail.com">Email</a>
+  <a href="https://github.com/HdlArf"><img src="assets/icons/github.svg" width="58" alt="GitHub"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.kaggle.com/hadeelalnomay"><img src="assets/icons/kaggle.svg" width="58" alt="Kaggle"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/hdl_arf/"><img src="assets/icons/instagram.svg" width="58" alt="Instagram"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/hadeel-hadeel-10a449331/"><img src="assets/icons/linkedin.svg" width="58" alt="LinkedIn"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:hadeelalnomai@gmail.com"><img src="assets/icons/gmail.svg" width="58" alt="Email"></a>
 </p>
 
 ---
